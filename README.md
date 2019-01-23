@@ -11,6 +11,9 @@ $ dotnet build
 
 ## How to solve
 A before B
+
 C before D
-sam for 1, 2 and 3
-but what rhymes with G
+
+Same goes for 1, 2 and 3
+
+But what rhymes with G
