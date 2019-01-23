@@ -1,0 +1,11 @@
+/home/derik/workshops/debugws2/bin/Debug/netcoreapp2.2/debugws2.deps.json
+/home/derik/workshops/debugws2/bin/Debug/netcoreapp2.2/debugws2.runtimeconfig.json
+/home/derik/workshops/debugws2/bin/Debug/netcoreapp2.2/debugws2.runtimeconfig.dev.json
+/home/derik/workshops/debugws2/bin/Debug/netcoreapp2.2/debugws2.dll
+/home/derik/workshops/debugws2/bin/Debug/netcoreapp2.2/debugws2.pdb
+/home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.csprojAssemblyReference.cache
+/home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.csproj.CoreCompileInputs.cache
+/home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.AssemblyInfoInputs.cache
+/home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.AssemblyInfo.cs
+/home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.dll
+/home/derik/workshops/debugws2/obj/Debug/netcoreapp2.2/debugws2.pdb
